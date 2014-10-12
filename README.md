@@ -1,4 +1,4 @@
 ds-test-repo
 ============
 
-Test repo for data science course.
+This is my test repo for data science course.
